@@ -1,0 +1,148 @@
+nav { text-align: left;
+background-color: #360031;}
+nav ul li { display: inline-block; }
+.nav_item {
+	padding: 0px 0px;
+	display: inline-block;
+}
+
+.dropbtn {
+    background-color: #360031;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #1F001E;
+}
+
+.buttons {padding: 0px;}
+
+section { padding: 15px; }
+
+.sectionOne {
+height: 118vh;	
+text-align: center;
+
+    background-image: url(../images/mountains.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.sectionTwo {
+height: 100vh;	
+background-color: #08504c;
+text-align: center;
+}
+
+.aboutme {width: 35vw; float: left;}
+.me {width:50vw; float:right;}
+
+
+.sectionThree {
+	height: 100vh;	
+	background-color: #515f00;
+	text-align: center;
+}
+	
+.sectionFour {
+	height: 70vh;	
+	background-color: #08504c;
+	text-align: center;
+}
+
+	
+.sectionFive {
+	height: 60vh;	
+	background-color: #515f00;
+	text-align: center;
+}
+	
+.sectionSix {
+	height: 60vh;	
+	background-color: #08504c;
+	text-align: center;
+}
+	
+.sectionSeven {
+	height: 40vh;	
+	background-color: #515f00;
+	text-align: center;
+}
+	
+.sectionEight {
+	height: 30vh;	
+	background-color: #08504c;
+	text-align: center;
+}
+
+.sectionNine {
+	height: 30vh;	
+	background-color: #08504c;
+	text-align: center;
+}
+
+.sectionTen {
+    height: 15vh;
+}
+
+.left {float: left;}
+.right {float: right;}
+
+h1 {
+    position:relative;
+    color: #1F001E;
+    left: 0;
+    top: 3%;
+    width: 100%;
+    text-align:center;
+    font-size: 50px;
+    padding: 0px 0px;
+    font-family: 'Kranky', cursive;
+}
+
+p {
+    color: #fff;
+    font-family: 'Pompiere', cursive;
+    font-size: 20px;
+}
+
+///////images///////
+
+.mountains {
+    position:inherit;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
