@@ -59,60 +59,71 @@ text-align: center;
 }
 
 .sectionTwo {
-height: 100vh;	
-background-color: #08504c;
-text-align: center;
+     height: 125vh;	
+	text-align: center;
+    background-color: #360031;
+ background-image: url(../images/bush.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 50em;
+    margin-top: 50em;
+    padding-bottom: 35em;
+    color: #fff;
+    font-family: 'Pompiere', cursive;
+    font-size: 20px;
 }
+    
 
 .aboutme {width: 35vw; float: left;}
 .me {width:50vw; float:right;}
 
 
 .sectionThree {
-	height: 100vh;	
-	background-color: #515f00;
+    columns: 100px 2;
+    column-width: 100px;
 	text-align: center;
 }
+
 	
 .sectionFour {
-	height: 70vh;	
-	background-color: #08504c;
+      height: 60vh;	
 	text-align: center;
+    columns: 100px 2;
 }
 
 	
 .sectionFive {
-	height: 60vh;	
-	background-color: #515f00;
+      height: 60vh;	
 	text-align: center;
+    columns: 100px 2;
 }
 	
 .sectionSix {
-	height: 60vh;	
-	background-color: #08504c;
+       height: 60vh;	
 	text-align: center;
+    columns: 100px 2;
 }
 	
 .sectionSeven {
-	height: 40vh;	
-	background-color: #515f00;
+        height: 60vh;	
 	text-align: center;
+    columns: 100px 2;
 }
 	
 .sectionEight {
-	height: 30vh;	
-	background-color: #08504c;
-	text-align: center;
+    height: 118vh;	
+text-align: center;
+background-image: url(../images/trees.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .sectionNine {
-	height: 30vh;	
-	background-color: #08504c;
+	height: 60vh;	
 	text-align: center;
-}
-
-.sectionTen {
-    height: 15vh;
+    background-image: url(../images/grass.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .left {float: left;}
@@ -130,11 +141,8 @@ h1 {
     font-family: 'Kranky', cursive;
 }
 
-p {
-    color: #fff;
-    font-family: 'Pompiere', cursive;
-    font-size: 20px;
-}
+
+
 
 ///////images///////
 
@@ -145,4 +153,16 @@ p {
     width: 100%;
     text-align: center;
     font-size: 18px;
+}
+
+////////table////////
+    table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: centre centre;
+    border-bottom: 1px solid #ddd;
 }
