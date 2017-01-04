@@ -135,14 +135,21 @@ h1 {
     font-family: 'Kranky', cursive;
 }
 
-.one {
-       position: absolute;
-    left 100px;
-    top: 150px;
+.one 
+       {
+    padding: 2em 0 2em 0;
+    line-height: 1.2em;
+    font-size: 1.30em;
+    margin: 0;
+    border-top: 30px;
+    border-bottom: 1px;
+           border-left:
+    text-align: center;
+
     color: #fff;
     font-family: 'Pompiere', cursive;
     font-size: 30px;
-}
+
 
 
 
