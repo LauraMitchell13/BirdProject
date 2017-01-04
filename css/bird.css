@@ -59,18 +59,12 @@ text-align: center;
 }
 
 .sectionTwo {
-     height: 60vh;	
+     height: 130vh;	
 	text-align: center;
     background-color: #360031;
  background-image: url(../images/bush.svg);
     background-repeat: no-repeat;
     background-size: 100%;
-    margin-bottom: 50em;
-    margin-top: 50em;
-    padding-bottom: 35em;
-    color: #fff;
-    font-family: 'Pompiere', cursive;
-    font-size: 20px;
 }
     
 
@@ -141,6 +135,14 @@ h1 {
     font-family: 'Kranky', cursive;
 }
 
+.one {
+       position: absolute;
+    left 100px;
+    top: 150px;
+    color: #fff;
+    font-family: 'Pompiere', cursive;
+    font-size: 30px;
+}
 
 
 
