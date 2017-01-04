@@ -50,7 +50,7 @@ nav ul li { display: inline-block; }
 section { padding: 5px; }
 
 .sectionOne {
-height: 118vh;	
+height: 122vh;	
 text-align: center;
 
     background-image: url(../images/mountains.svg);
@@ -59,17 +59,13 @@ text-align: center;
 }
 
 .sectionTwo {
-     height: 130vh;	
+     height: 125vh;	
 	text-align: center;
     background-color: #360031;
  background-image: url(../images/bush.svg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
-    
-
-.aboutme {width: 35vw; float: left;}
-.me {width:50vw; float:right;}
 
 
 .sectionThree {
@@ -83,8 +79,13 @@ text-align: center;
 
 	
 .sectionFour {
-      height: 60vh;	
+       height: 125vh;	
 	text-align: center;
+    background-color: #360031;
+ background-image: url(../images/bush.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
     
 }
 
@@ -187,6 +188,14 @@ margin: 0;
     color: #fff;
     font-family: 'Pompiere', cursive;
     font-size: 15px;}
+
+.four
+           {padding: 8em 10em 2em 10em;
+    text-align: center;
+margin: 0;
+    color: #fff;
+    font-family: 'Pompiere', cursive;
+    font-size: 25px;}
 
 
 
