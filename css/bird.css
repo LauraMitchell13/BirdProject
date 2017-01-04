@@ -47,12 +47,12 @@ nav ul li { display: inline-block; }
 
 .buttons {padding: 0px;}
 
+section { padding: 5px; }
 
 .sectionOne {
 height: 122vh;	
 text-align: center;
-
-    background-image: url(../images/mountains.svg);
+ background-image: url(../images/mountains.svg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -68,6 +68,8 @@ text-align: center;
 
 
 .sectionThree {
+    padding-top: 5em;
+    padding-bottom: 2em;
     height: 138vh;
 	text-align: center;
     background-color: #360031;
