@@ -47,7 +47,7 @@ nav ul li { display: inline-block; }
 
 .buttons {padding: 0px;}
 
-section { padding: 15px; }
+section { padding: 5px; }
 
 .sectionOne {
 height: 118vh;	
@@ -157,6 +157,11 @@ h2 {
     padding: 20px 5px 20px 5px;
     font-family: 'Kranky', cursive;
 }
+
+i {
+    color: #0873F4;
+}
+
 .one 
        {
     padding: 12em 10em 2em 10em;
@@ -183,9 +188,7 @@ margin: 0;
     font-family: 'Pompiere', cursive;
     font-size: 15px;}
 
-i {
-    color: #0873F4;
-}
+
 
 ///////images///////
 
@@ -195,6 +198,11 @@ i {
     table{
     border-collapse: collapse;
     width: 100%;
+        padding: 8em 10em 2em 10em;
+    text-align: center;
+    color: #fff;
+    font-family: 'Pompiere', cursive;
+    font-size: 25px
 }
 
 th, td {
