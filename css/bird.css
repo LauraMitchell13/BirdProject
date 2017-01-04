@@ -50,6 +50,7 @@ nav ul li { display: inline-block; }
 section { padding: 5px; }
 
 .sectionOne {
+    padding-bottom: 1em;
 height: 122vh;	
 text-align: center;
  background-image: url(../images/mountains.svg);
