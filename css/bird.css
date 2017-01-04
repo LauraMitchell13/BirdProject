@@ -85,7 +85,7 @@ text-align: center;
 .sectionFour {
     padding-top: 5em;
     padding-bottom: 3em;
-       height: 165vh;	
+       height: 163vh;	
 	text-align: center;
     background-color: #360031;
  background-image: url(../images/bush2.svg);
@@ -93,8 +93,6 @@ text-align: center;
     background-size: 100%;
 }
     
-}
-
 	
 .sectionFive {
       height: 60vh;	
