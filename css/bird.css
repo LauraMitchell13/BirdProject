@@ -95,14 +95,14 @@ text-align: center;
     
 	
 .sectionFive {
-      height: 40vh;	
+      height: 30vh;	
 	text-align: center;
       padding-top: 5em;
     padding-bottom: 3em;
        height: 160vh;	
 	text-align: center;
-    background-color: #3C5124;
- background-image: url(../images/bush2.svg);
+    background-color: #08504C;
+ background-image: url(../images/bird.svg);
     background-repeat: no-repeat;
     background-size: 100%;
     
@@ -221,7 +221,7 @@ margin: 0;
     font-family: 'Pompiere', cursive;
     font-size: 25px;}
 .six
-{padding: 4em 9em 2em 8em;
+{padding: -1em 6em 2em 10em;
     text-align: center;
 margin: 0;
     color: #fff;
