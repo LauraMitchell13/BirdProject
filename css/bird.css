@@ -178,12 +178,12 @@ h2 {
     width: 100%;
     text-align:center;
     font-size: 40px;
-    padding: 40px 5px 20px 5px;
+    padding: 50px 5px 10px 5px;
     font-family: 'Kranky', cursive;
 }
 
 i {
-    color: #0873F4;
+    color: #cc5e6c;
 }
 
 .one 
@@ -197,7 +197,7 @@ margin: 0;
 }
            
 .two
-           {padding: 8em 10em 2em 10em;
+           {padding: 5em 10em 2em 10em;
     text-align: center;
 margin: 0;
     color: #fff;
