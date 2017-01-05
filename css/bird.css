@@ -107,8 +107,12 @@ text-align: center;
 }
 	
 .sectionSeven {
-        height: 110vh;	
+        height: 173vh;	
 	text-align: center;
+    background-color: #360031;
+    background-image: url(../images/grass3.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 	
 .sectionEight {
@@ -201,6 +205,15 @@ margin: 0;
     font-family: 'Pompiere', cursive;
     font-size: 25px;}
 
+.seven
+           {padding: 4em 9em 2em 8em;
+    text-align: center;
+margin: 0;
+    color: #fff;
+    font-family: 'Pompiere', cursive;
+    font-size: 25px;}
+
+
 
 
 ///////images///////
@@ -238,8 +251,13 @@ th, td {
       }
 
 .map {
-    position: absolute;
+    position:relative;
     height: 80%;
-    width: 60;
+    width: 80%;
+    padding-right: 20em;
+    margin-right: 10em;
+    margin-left: 5em;
+    margin-top: 5em;
+    
     
 }
