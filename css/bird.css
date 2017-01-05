@@ -226,10 +226,20 @@ th, td {
 
   #map {
         height: 50%;
-      width: 50%;
+      width: 40%;
       position: absolute;
-      float: none;
+      float: right;
       padding-left: 8em;
       padding-right: 2em;
+      margin-bottom: 3em;
+      margin-left: 20em;
+      margin-top: 3em;
       
       }
+
+.map {
+    position: absolute;
+    height: 80%;
+    width: 60;
+    
+}
