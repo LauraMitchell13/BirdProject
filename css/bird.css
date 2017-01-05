@@ -227,5 +227,9 @@ th, td {
   #map {
         height: 50%;
       width: 50%;
-      display: block;
+      position: absolute;
+      float: none;
+      padding-left: 8em;
+      padding-right: 2em;
+      
       }
