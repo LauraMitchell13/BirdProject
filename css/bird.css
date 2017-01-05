@@ -53,6 +53,7 @@ section { padding: 5px; }
     padding-bottom: 1em;
 height: 122vh;	
 text-align: center;
+    background-color: #3d5125;
  background-image: url(../images/mountains.svg);
     background-repeat: no-repeat;
     background-size: 100%;
