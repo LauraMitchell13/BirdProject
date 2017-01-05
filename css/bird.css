@@ -139,7 +139,7 @@ background-image: url(../images/trees.svg);
 }
 
 .sectionNine {
-	height: 60vh;	
+	height: 56vh;	
 	text-align: center;
     background-color: #360031;
     background-image: url(../images/grass4.svg);
@@ -183,7 +183,8 @@ h2 {
     font-family: 'Kranky', cursive;
 }
 
-i {
+i { text-align: center;
+    font-family: 'Pompiere', cursive;
     color: #cc5e6c;
 }
 
@@ -245,6 +246,14 @@ margin: 0;
     font-size: 25px;}
 
 .eight
+           {padding: 5em 10em 2em 10em;
+    text-align: center;
+margin: 0;
+    color: #fff;
+    font-family: 'Pompiere', cursive;
+    font-size: 25px;}
+
+.nine
            {padding: 5em 10em 2em 10em;
     text-align: center;
 margin: 0;
