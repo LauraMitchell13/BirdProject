@@ -50,7 +50,7 @@ nav ul li { display: inline-block; }
 section { padding: 5px; }
 
 .sectionOne {
-    padding-bottom: 1em;
+    padding-bottom: -1em;
 height: 118vh;	
 text-align: center;
     
@@ -60,8 +60,8 @@ text-align: center;
 }
 
 .sectionTwo {
-    padding-top: 3em;
-    padding-bottom: 3em;
+    padding-top: -1em;
+    padding-bottom: -1em;
      height: 125vh;	
 	text-align: center;
     background-color: #360031;
