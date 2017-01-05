@@ -172,13 +172,13 @@ h1 {
 
 h2 {
     position:relative;
-    color: #1F001E;
+    color: #cc5e6c;
     left: 0;
     top: 3%;
     width: 100%;
     text-align:center;
-    font-size: 20px;
-    padding: 20px 5px 20px 5px;
+    font-size: 40px;
+    padding: 40px 5px 20px 5px;
     font-family: 'Kranky', cursive;
 }
 
