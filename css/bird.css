@@ -51,7 +51,7 @@ section { padding: 5px; }
 
 .sectionOne {
     padding-bottom: 0.5em;
-height: 120vh;	
+height: 119vh;	
 text-align: center;
     
  background-image: url(../images/mountains.svg);
@@ -124,7 +124,7 @@ text-align: center;
 .sectionSeven {
     padding-top: 1em;
     padding-bottom: 0.5em;
-        height: 166vh;	
+        height: 165vh;	
 	text-align: center;
     background-color: #360031;
     background-image: url(../images/grass3.svg);
