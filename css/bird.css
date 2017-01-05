@@ -131,8 +131,9 @@ text-align: center;
 }
 	
 .sectionEight {
-    height: 118vh;	
+    height: 120vh;	
 text-align: center;
+    background-color: #360031;
 background-image: url(../images/trees2.svg);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -274,6 +275,7 @@ margin: 0;
 
 ////////table////////
     table{
+        table-layout: center;
     border-collapse: collapse;
     width: 100%;
         padding: 8em 10em 2em 10em;
