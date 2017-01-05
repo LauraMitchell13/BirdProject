@@ -277,7 +277,9 @@ th, td {
     position:absolute;
     height: 80%;
     width: 80%;
-    padding-right: 20em;
+    padding-top: 10em;
+    padding-bottom: 5em;
+    padding-right: 10em;
     margin-right: 10em;
     margin-left: 5em;
     margin-top: 5em;
