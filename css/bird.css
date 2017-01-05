@@ -51,7 +51,7 @@ section { padding: 5px; }
 
 .sectionOne {
     padding-bottom: 0.5em;
-height: 121vh;	
+height: 120vh;	
 text-align: center;
     
  background-image: url(../images/mountains.svg);
@@ -99,7 +99,7 @@ text-align: center;
 	text-align: center;
       padding-top: 1em;
     padding-bottom: 1em;
-       height: 148vh;	
+       height: 145vh;	
 	text-align: center;
     background-color: #08504C;
  background-image: url(../images/bird.svg);
@@ -109,7 +109,7 @@ text-align: center;
 }
 	
 .sectionSix {
-       height: 125vh;	
+       height: 123vh;	
 	text-align: center;
         padding-top: 1em;
     padding-bottom: 1em;
@@ -124,7 +124,7 @@ text-align: center;
 .sectionSeven {
     padding-top: 1em;
     padding-bottom: 0.5em;
-        height: 168vh;	
+        height: 166vh;	
 	text-align: center;
     background-color: #360031;
     background-image: url(../images/grass3.svg);
