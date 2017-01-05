@@ -99,7 +99,7 @@ text-align: center;
 	text-align: center;
       padding-top: 5em;
     padding-bottom: 3em;
-       height: 135vh;	
+       height: 133vh;	
 	text-align: center;
     background-color: #08504C;
  background-image: url(../images/bird.svg);
@@ -111,6 +111,13 @@ text-align: center;
 .sectionSix {
        height: 60vh;	
 	text-align: center;
+        padding-top: -1em;
+    padding-bottom: -1em;
+	text-align: center;
+    background-color: #360031;
+ background-image: url(../images/bush.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
     
 }
 	
@@ -236,6 +243,14 @@ margin: 0;
     font-family: 'Pompiere', cursive;
     font-size: 25px;}
 
+.eight
+           {padding: 8em 10em 2em 10em;
+    text-align: center;
+margin: 0;
+    color: #fff;
+    font-family: 'Pompiere', cursive;
+    font-size: 25px;}
+
 
 
 
@@ -280,7 +295,7 @@ th, td {
     padding-bottom: 12em;
     padding-right: 10em;
     margin-right: 10em;
-    margin-left: 8em;
+    margin-left: 7.5em;
     margin-top: -18em;
     
     
