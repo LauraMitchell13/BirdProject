@@ -141,7 +141,8 @@ background-image: url(../images/trees.svg);
 .sectionNine {
 	height: 60vh;	
 	text-align: center;
-    background-image: url(../images/grass.svg);
+    background-color: #360031;
+    background-image: url(../images/grass4.svg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -251,7 +252,9 @@ margin: 0;
     font-family: 'Pompiere', cursive;
     font-size: 25px;}
 
-
+.grass4 {
+    padding-top: 20em;
+}
 
 
 ///////images///////
