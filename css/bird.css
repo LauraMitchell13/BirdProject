@@ -279,8 +279,7 @@ margin: 0;
     table{
     border-collapse: collapse;
     width: 100%;
-        padding-left: 15em;
-        padding-top: 15em;
+    margin: 15em 0em 0em 15em;
 }
 
 
