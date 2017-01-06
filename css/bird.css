@@ -293,7 +293,7 @@ td, tr{
     
 }
 
-  #map {
+ #map {
         height: 40%;
       width: 35%;
       position: absolute;
@@ -305,16 +305,3 @@ td, tr{
       margin-top: 3em;
       
       }
-
-.map {
-    height: 70%;
-    width: 70%;
-    padding-top: -10em;
-    padding-bottom: 12em;
-    padding-right: 10em;
-    margin-right: 10em;
-    margin-left: 7.5em;
-    margin-top: -18em;
-    
-    
-}
