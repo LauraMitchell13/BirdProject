@@ -276,21 +276,19 @@ margin: 0;
 
 ////////table////////
 
-    table{
-        align-content: center;
+    .table{
     border-collapse: collapse;
     width: 100%;
-        padding: 20em 30em 15em 10em;
-    text-align: center;
-    color: #fff;
-    font-family: 'Pompiere', cursive;
-    font-size: 25px;
 }
 
-tr, td {
+
+td, tr{
+    font-family: 'Pompiere', cursive;
+    font-size: 25px;
+    color: #fff;
     padding: 8px;
+    border-bottom: 1px solid #cc5e6c;
     text-align-last: center;
-    border-bottom: 1px solid #ddd;
 }
 
   #map {
