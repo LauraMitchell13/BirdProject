@@ -275,10 +275,10 @@ margin: 0;
 
 ////////table////////
 
-    table{
+    table {
     border-collapse: collapse;
     width: 100%;
-    margin: 15em 0em 0em 15em;
+    margin:auto;
 }
 
 
@@ -290,6 +290,11 @@ td, tr{
     border-bottom: 1px solid #cc5e6c;
     text-align-last: center;
     
+}
+
+tr {
+    margin-top: 5em;
+    margin-left: 15em;
 }
 
  #map {
