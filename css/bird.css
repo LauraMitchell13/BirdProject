@@ -183,8 +183,11 @@ h2 {
     padding: 50px 5px 10px 5px;
     font-family: 'Kranky', cursive;
 }
+i{font-family: 'Pompiere', cursive;
+    color: #cc5e6c;}
 
-i { text-align: center;
+i.one { text-align: center;
+    font-size: 1em;
     font-family: 'Pompiere', cursive;
     color: #cc5e6c;
     padding: 5em 10em 5em 1em;
@@ -269,16 +272,13 @@ margin: 0;
 }
 
 
-///////images///////
-
-
-
-////////table////////
 
     table {
     border-collapse: collapse;
-    width: 100%;
-    margin:auto;
+    width: 70%;
+    margin-top: 15em;
+        margin-left: 11.75em;
+        padding-top: 25em;
 }
 
 
