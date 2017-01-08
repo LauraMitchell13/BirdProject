@@ -51,9 +51,8 @@ section { padding: 5px; }
 
 .sectionOne {
     padding-bottom: 0.5em;
-height: 116vh;	
+height: 114.5vh;	
 text-align: center;
-    
  background-image: url(../images/mountains.svg);
     background-repeat: no-repeat;
     background-size: 100%;
